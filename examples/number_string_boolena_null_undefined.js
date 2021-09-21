@@ -26,17 +26,17 @@ console.log(res4)
 
 // Math API
 // Similar ao Java
-Math.abs()      - Valor absoluto do número
-Math.floor()    - Valor inteiro do número
-Math.log()      - Logarítmo natural do número (base E)
-Math.min()      - Retorna o menor número
-Math.max()      - Retorna o maior número
-Math.pow()      - Potência do número
-Math.random()   - Gera número randômico
-Math.round()    - Arredonda o número para o interio mais próx
-Math.sin()      - Seno do número
-Math.sqrt()     - Raíz quadrada do número
-Math.tan()      - Tangente do número
+// Math.abs()      - Valor absoluto do número
+// Math.floor()    - Valor inteiro do número
+// Math.log()      - Logarítmo natural do número (base E)
+// Math.min()      - Retorna o menor número
+// Math.max()      - Retorna o maior número
+// Math.pow()      - Potência do número
+// Math.random()   - Gera número randômico
+// Math.round()    - Arredonda o número para o interio mais próx
+// Math.sin()      - Seno do número
+// Math.sqrt()     - Raíz quadrada do número
+// Math.tan()      - Tangente do número
 
 /* --------- STRING --------- */
 // São imutáveis, nao modifica o original
