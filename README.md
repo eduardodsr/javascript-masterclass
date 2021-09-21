@@ -1,6 +1,6 @@
 # JavaScript Masterclass
 
-$ Instrutor: Rodrigo Branas $
+*Instrutor: Rodrigo Branas*
 
 ## Conteúdo 
 
