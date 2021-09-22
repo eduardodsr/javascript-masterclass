@@ -21,3 +21,11 @@ typeof undefined; // undefined
 ('JavaScript').replace('a', '4'); // 'J4v4script'
 (true).toString(); // 'true'
 (Symbol("iterator")).toString(); // 'Symbol("iterator")
+
+// Terminal
+
+typeof function sum(a, b) {return a + b}; // function
+typeof {name: "Linux Trovald"}; //object
+typeof [1,2,3,4,5,6,7,8,9]; // object
+typeof /[a-zA-Z_$]+/; // object
+typeof (new Date()); // object
