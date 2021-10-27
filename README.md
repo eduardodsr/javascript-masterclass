@@ -6,7 +6,7 @@
 
 **M1 - Introdução**
 - [x] 1 - Abertura
-- [x] 2 - Instruções.pdf
+- [x] 2 - Instruções
 - [x] 3 - História da Linguagem
 - [x] 4 - Evolução das Versões
 - [x] 5 - Variáveis
@@ -14,10 +14,10 @@
 **M2 - Tipos de Dados**
 - [x] 6 - Tipos de Dados.mp4
 - [x] 7 - Number
-    - [ ] 7.1 - Operadores Numéricos
-    - [ ] 7.2 - Conversão Numérica
-    - [ ] 7.3 - IEEE 754
-    - [ ] 7.4 - Math API
+    - [x] 7.1 - Operadores Numéricos
+    - [x] 7.2 - Conversão Numérica
+    - [x] 7.3 - IEEE 754
+    - [x] 7.4 - Math API
 - [ ] 8 - String
     - [ ] 8.1 - Template Literal
     - [ ] 8.2 - String API
